@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=Capacitacion_01
+project.version=6.5
+project.original.version=4.2
+product.name=NeoLoad
+product.original.name=
+product.original.version=
+project.id=643c842f-7d3b-4431-b9ce-ec684a835949
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/cvaldebenitoe/Capacitacion_02.git
